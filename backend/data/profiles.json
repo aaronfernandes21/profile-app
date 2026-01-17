@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Saksham Arora",
+    "age": 25,
+    "gender": "Male",
+    "pronouns": "He/Him",
+    "avatar": "/images/prof.png"
+,
+    "bio": "MBA candidate at TAPMI, Bengaluru with strong backend and analytics experience.",
+    "skills": ["Python", "SQL", "React", "Java"]
+  },
+  {
+    "id": "2",
+    "name": "Aarav Mehta",
+    "age": 24,
+    "gender": "Male",
+    "pronouns": "He/Him",
+    "avatar": "https://via.placeholder.com/150",
+    "bio": "Product analyst with experience in fintech case studies.",
+    "skills": ["Excel", "Power BI", "SQL"]
+  },
+  {
+    "id": "3",
+    "name": "Neha Sharma",
+    "age": 26,
+    "gender": "Female",
+    "pronouns": "She/Her",
+    "avatar": "https://via.placeholder.com/150",
+    "bio": "Data analyst and national-level case competition finalist.",
+    "skills": ["Python", "Tableau", "Statistics"]
+  }
+]
